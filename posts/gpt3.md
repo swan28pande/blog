@@ -1,5 +1,5 @@
-[category]: <> (General,Blockchains)
-[date]: <> (2022/12/06)
+[category]: <> (General,Experiences)
+[date]: <> (2022/07/28)
 [title]: <> (Updating my blog: a quick GPT chatbot coding experiment)
 [pandoc]: <> (--mathjax)
 
