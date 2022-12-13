@@ -4,4 +4,4 @@ Please feel free to make pull requests to the posts in the [posts](./posts/) dir
 
 Blog posts, including the text and all images made by myself, are released freely to the world under the [WTFPL](http://www.wtfpl.net/).
 
-Credit to https://hackmd.io for CSS styles.
+Credit to https://hackmd.io for CSS styles
